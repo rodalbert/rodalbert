@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/rodalbert/rodalbert/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Image](https://s.gravatar.com/avatar/d120624586e4577306aebfb4b512688a?s=80)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Rodrigo home page
 
-```markdown
-Syntax highlighted code block
+Welcome to Rodrigo Alberto home page
+I'm a software enthusiast and code programmer
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Works I done
 
-1. Numbered
-2. List
+Coder in [FreeCodeCamp Lisbon](https://www.freecodecamplisbon.org/) where i work in code problems 
 
-**Bold** and _Italic_ and `Code` text
+System Developer in [Institute of Informatics, Public Institute](http://www.seg-social.pt/ii-ip-instituto-de-informatica-ip)
+Collaborator in the development of the information system ́s core procurement and contracts of informatics institute.
 
-[Link](url) and ![Image](src)
-```
+[Secondary](https://www.dgae.mec.pt/) school teacher of economics sciences
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Links
 
-### Jekyll Themes
+https://www.linkedin.com/in/rodalbert/
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rodalbert/rodalbert/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+https://github.com/rodalbert
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
