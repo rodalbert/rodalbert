@@ -1,6 +1,6 @@
 
 
-[Image](https://s.gravatar.com/avatar/d120624586e4577306aebfb4b512688a?s=80)
+[](https://s.gravatar.com/avatar/d120624586e4577306aebfb4b512688a?s=80)
 
 
 # Rodrigo home page
