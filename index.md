@@ -20,8 +20,8 @@ Collaborator in the development of the information system ́s core procurement a
 
 # Links
 
-https://www.linkedin.com/in/rodalbert/
+[My Linkedin](https://www.linkedin.com/in/rodalbert/)
 
-https://github.com/rodalbert
+[My GitHub](https://github.com/rodalbert)
 
 
