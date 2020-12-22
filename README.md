@@ -1,3 +1,3 @@
 # rodalbert_portfolio
-About my work experience, and meanwhile other code projects and achievements
+About my work experience, and other code projects
  https://rodalbert.github.io/rodalbert_portfolio/
