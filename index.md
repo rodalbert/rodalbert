@@ -17,7 +17,7 @@ Collaborator in the development of the information system ́s core procurement a
 
 [Secondary](https://www.dgae.mec.pt/) School Teacher where i analise data in economics and social sciences.
 
-Degree in Economics Science in [Lisbon Economic and Management School](https://www.iseg.ulisboa.pt/) where i work on statistical models and econometric forecasts.
+Degree in Economics Science in [Lisbon School of Economic and Management](https://www.iseg.ulisboa.pt/) where i work on statistical models and econometric forecasts.
 
 # Links
 
