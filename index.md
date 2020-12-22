@@ -3,11 +3,12 @@
 # Rodrigo home page
 
 Welcome to Rodrigo Alberto home page
+
 I'm a Coder and Data Analist.
 
 # What I done
 
-Student in Computer Science in [IST Técnico Lisbon](https://tecnico.ulisboa.pt/en/) where i learn to solve coding and logic sistem problems.
+Student in Computer Science in [IST Técnico Lisbon](https://tecnico.ulisboa.pt/en/) where i learn to solve coding and logic system problems.
 
 Coder in [FreeCodeCamp Lisbon](https://www.freecodecamplisbon.org/) where i work in coding problems and his solutions.
 
