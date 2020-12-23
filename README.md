@@ -8,5 +8,7 @@ Ask about my work experience, and other code projects i done.
 
 🔗 https://rodalbert.github.io/rodalbert/
 
+🔗 https://www.linkedin.com/in/rodalbert/
+
 
 
