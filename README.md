@@ -1,14 +1,14 @@
 
 
-Hi,
+## Hi,
 
-I am Rodrigo Alberto, a Computer Science Engeneer Student in IST Lisbon from Portugal 🇵🇹
+🌱 I am Rodrigo Alberto, a Computer Science Engeneer Student in IST Lisbon from Portugal 🇵🇹
 
-Ask about my work experience, and other code projects i done.
+💬 Ask about my [work experience](https://www.linkedin.com/in/rodalbert/), and other code projects i done 🔭 
 
 🔗 https://rodalbert.github.io/rodalbert/
 
-🔗 https://www.linkedin.com/in/rodalbert/
+
 
 
 
