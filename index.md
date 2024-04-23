@@ -8,9 +8,9 @@ I'm a Coder and Data Analyst.
 
 # What I done
 
-Student of Computer Science Engeneer in [IST Técnico Lisbon](https://tecnico.ulisboa.pt/en/) where i learn to solve coding and logic system problems.
+Former Student of Computer Science Engeneer in [IST Técnico Lisbon](https://tecnico.ulisboa.pt/en/) where i learn to solve coding and logic problems.
 
-Coder in [FreeCodeCamp Lisbon](https://www.freecodecamplisbon.org/) where i work in teams in order to improve coding skills.
+Former Coder in [FreeCodeCamp Lisbon](https://www.freecodecamplisbon.org/) where i work in teams in order to improve coding skills.
 
 System Developer in [Institute of Informatics, Public Institute](http://www.seg-social.pt/ii-ip-instituto-de-informatica-ip)
 Collaborator in the development of the information system ́s core procurement and contracts of informatics institute.
