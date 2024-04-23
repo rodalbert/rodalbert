@@ -2,7 +2,7 @@
 
 ## Hi,
 
-🌱 I am Rodrigo Alberto, a Computer Science Student from Portugal 🇵🇹
+🌱 I am Rodrigo Alberto, a Computer Science Student
 
 💬 Ask about my [work experience](https://www.linkedin.com/in/rodalbert/) 🔭 
 
