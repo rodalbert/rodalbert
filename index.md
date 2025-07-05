@@ -7,12 +7,12 @@ Welcome to Rodrigo Alberto home page
 
 # What I done
 
-Former Coder in [FreeCodeCamp Lisbon](https://www.freecodecamplisbon.org/) where i work in teams in order to improve coding skills.
+Former Coder in [FreeCodeCamp Lisbon](https://www.freecodecamplisbon.org/) where i worked with teams in order to improve coding skills.
 
 System Developer in [Institute of Informatics, Public Institute](http://www.seg-social.pt/ii-ip-instituto-de-informatica-ip)
-Collaborator in the development of the information system ́s core procurement and contracts of informatics institute.
+Collaborator in the development of the information system´s core procurement and contracts of informatics institute.
 
-[Secondary](https://www.dgae.mec.pt/) School Teacher where i analise data in economics and social sciences.
+[Secondary School Teacher](https://www.dgae.mec.pt/) Data Analysis in economics sciences.
 
 Degree in Economics Science in [Lisbon School of Economic and Management](https://www.iseg.ulisboa.pt/) where i work on statistical models and econometric forecasts.
 
