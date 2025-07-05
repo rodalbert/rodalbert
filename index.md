@@ -4,11 +4,8 @@
 
 Welcome to Rodrigo Alberto home page
 
-I'm a Coder and Data Analyst.
 
 # What I done
-
-Former Student of Computer Science Engeneer in [IST Técnico Lisbon](https://tecnico.ulisboa.pt/en/) where i learn to solve coding and logic problems.
 
 Former Coder in [FreeCodeCamp Lisbon](https://www.freecodecamplisbon.org/) where i work in teams in order to improve coding skills.
 
