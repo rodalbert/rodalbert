@@ -8,7 +8,7 @@
 
 🔗 https://rodalbert.github.io/rodalbert/
 
-🤓🧮💡🧭🏺🪔
+
 
 
 
